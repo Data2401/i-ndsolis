@@ -7,3 +7,4 @@ y <- x^3
 
 plot(x,y, type = "b", main = "Cubed integers")
 
+install.
